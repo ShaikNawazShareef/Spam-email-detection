@@ -91,7 +91,7 @@ The model classifies messages into two categories:
 
 ## 👨‍💻 Author
 
-**Nawaz**
+**Nawaz Shareef Shaik**
 
 GitHub: https://github.com/ShaikNawazShareef
 
